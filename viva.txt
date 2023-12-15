@@ -1,0 +1,28 @@
+nodejs:
+Node.js is an open source server environment
+Node.js is free
+Node.js runs on various platforms (Windows, Linux, Unix, Mac OS X, etc.)
+Node.js uses JavaScript on the server
+
+html:
+HTML (HyperText Markup Language) is the code that is used to structure a web page and its content
+
+css:
+CSS stands for Cascading Style Sheets
+CSS describes how HTML elements are to be displayed on screen, paper, or in other media
+CSS saves a lot of work. It can control the layout of multiple web pages all at once
+External stylesheets are stored in CSS files
+
+ejs:
+ EJS or Embedded Javascript Templating is a templating engine used by Node.js. 
+ Template engine helps to create an HTML template with minimal code. 
+ Also, it can inject data into HTML template at the client side and produce the final HTML. 
+ EJS is a simple templating language which is used to generate HTML markup with plain JavaScript. 
+ It also helps to embed JavaScript to HTML pages
+
+mysql:
+MySQL, the most popular Open Source SQL database management system, is developed, distributed, and supported by Oracle Corporation.
+
+npm install mysql2
+npm install -S express ejs
+npm install express
